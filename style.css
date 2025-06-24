@@ -875,7 +875,7 @@ margin-top: 50px;
 
 .info{
   position: relative;   
-  top: 10vh;
+  top: -100vh;
   height: 85vh;
 }
 
