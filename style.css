@@ -874,7 +874,8 @@ margin-top: 50px;
 }
 
 .info{
-  top: 500vh;
+    position: absolute;
+  top: 700vh;
   height: 85vh;
 }
 
