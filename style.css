@@ -847,8 +847,8 @@ margin-top: 50px;
 }
 
 .section4{
- 
-  top: 460vh;
+  position: absolute; 
+  top: 400vh;
   height: 200vh;
 }
 
