@@ -888,6 +888,7 @@ margin-top: 50px;
 }
 
 footer{
+    position: absolute;
   top: 660vh;
   display: flex;
   flex-direction: column;
