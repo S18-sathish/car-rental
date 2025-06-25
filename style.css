@@ -875,7 +875,7 @@ margin-top: 50px;
 
 .info{
   position: absolute;   
-  top: 600vh;
+  top: 550vh;
   height: 85vh;
 }
 
@@ -888,7 +888,7 @@ margin-top: 50px;
 }
 
 footer{
-  top: 760vh;
+  top: 660vh;
   display: flex;
   flex-direction: column;
 }
