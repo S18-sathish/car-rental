@@ -300,6 +300,10 @@ header{
     white-space: nowrap;
 }
 
+.textcontent h1 br{
+    display: none;
+}
+
 .textcontent p{
     top: 13vh;
     font-size: 16px;
@@ -830,6 +834,9 @@ margin-top: 50px;
   width: 90%;
 }
 
+.textcontent h1 br{
+    display: block;
+}
 
 .section3 .textcontent p{
    width: 100%;
